@@ -1,0 +1,15 @@
+button{
+    border: 1px solid;
+    border-radius: 16px;
+    font-weight: 400;
+    background-color: azure;
+}
+
+input{
+    margin:5px 10px;
+}
+
+.main{
+    background-color: aliceblue;
+    margin-top: 10px !important;
+}
